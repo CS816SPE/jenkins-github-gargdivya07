@@ -1,8 +1,6 @@
 # jenkins-github Assignment
-- Create a simple Job, and the build action of the job can be something simple like ```echo "Hello World!"```
-- Connect the job to your GitHub Assignment repository using Git SCM Poll for every 5 seconds
-- Whenever you commit to your repository, the Jenkins job should run automatically.
 
  Roll No.- MT2018033
  Name- Divya Garg
-![Screenshot] (/home/divya/Pictures/Screenshot from 2019-01-24 11-18-23.png) 
+![screenshot from 2019-01-24 11-18-23](https://user-images.githubusercontent.com/42088741/51658523-53226d80-1fce-11e9-9384-7c4da9ac5c3e.png)
+
